@@ -1,0 +1,7 @@
+https://stackoverflow.com/questions/10375024/equivalent-of-serverhttp-host-of-php-in-python-or-get-domain-name-in-pyt
+https://www.safaribooksonline.com/library/view/python-cookbook/0596001673/ch11s05.html
+https://books.google.com.au/books?id=yhfdQgq8JF4C&pg=PA365&lpg=PA365&dq=how+to+get+http_host+using+python&source=bl&ots=-8kmAuiPX-&sig=VoznHPN2q3MtQjebtZqG5JiPIkA&hl=en&sa=X&ved=0ahUKEwif7tuctYPZAhVDOrwKHZRmDHQQ6AEIRzAD#v=onepage&q=how%20to%20get%20http_host%20using%20python&f=false
+https://stackoverflow.com/questions/4271740/how-can-i-use-python-to-get-the-system-hostname
+http://net-informations.com/python/net/hostname.htm
+https://wiki.python.org/moin/Powerful%20Python%20One-Liners/Hostname
+https://www.w3schools.com/tags/default.asp
